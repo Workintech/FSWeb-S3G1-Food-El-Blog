@@ -30,7 +30,7 @@ Temel yapıyı oluşturduktan sonra, biraz stillerle de uğraşabilirsin. Çoğu
 2. YENİ BİR BRANCH OLUŞTURMAYINIZ. Bu projede main'e pushlayacağız.
 3. VS Code ile projeyi açın.
 4. VSC'da terminali açınız: Git komutları için kullanabilirsin.
-5. VS Code'un sol tarafındaki Extensions menüsünden Live Server extension'ı yükleyin. Yükleme bittikten sonra, ekranınızın sağ alt tarafındaki (mavi band'ın içindeki) "Go Live" butonu ile HTML dosyayı çalıştırın.
+5. VS Code'un sol tarafındaki Extensions menüsünden Live Server extension'ı yükleyin. Yükleme bittikten sonra, önce index.html dosyasını açın, sonra ekranınızın sağ alt tarafındaki (mavi band'ın içindeki) "Go Live" butonuna tıklayın. (tarayıcı'da index.html dosyası çalıaşacaktır. Kodlarda düzeltme yaptıkça kaydederseniz değişikliklikleri canlı olarak görebileceksiniz.)
 6. Bölümleri bitirdikçe commit'leyin.
 
 
