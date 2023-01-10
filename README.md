@@ -11,14 +11,17 @@ Yaptığınız projede, temiz ve profesyonel görünecek sonuçları alabilmek �
 
 ## Açıklama
 
-Bu projede Food El Blog için statik bir web sayfası yapacağız. Gerekli tüm metinler HTML dosyasında bulunmakta. HTML taglarını kullanarak sayfasnın yapısını oluşturmalısınız. Sonrasında css dosyasındaki selector'lara bakarak Aşağıdaki tagleri kullanabilirsin:
+Bu projede Food El Blog için statik bir web sayfası yapacağız. Gerekli tüm metinler HTML dosyasında bulunmakta. 
+1- HTML taglarını kullanarak sayfasının yapısını oluşturmalısınız. 
+2- Sonrasında css dosyasındaki selector'lara bakarak aşağıdaki tagleri kullanabilirsin:
+Tavsiye: Bölüm bölüm ilerleyebilirsin. Önce Header bölümü, sonra resim olan bölüm, sonra yazı ve resim olan bölüm gibi...
 
 h1'den h6'ya<br />
 p<br />
 header<br />
 nav<br />
 a<br />
-section<br /> (bu proje için content-row class'ını kullanabilirsiniz.) (bazı yerlerde kodunuzu div ile sarmalamanız gerekebilir) (baslik resmi için yeni bir class oluşturmanız gerekebilir. background: grey)
+section<br /> (bu proje için css dosaysında önden tanımlı content-row class'ını kullanabilirsin.) (bazı yerlerde kodunuzu div içine almanız gerekebilir. Örneğin: Aperatif bölümündeki başlık ve altındaki yazı gibi...) (baslik resmi için yeni bir class oluşturmanız gerekebilir. background: grey)
 footer<br /> (bu proje için footer-row class'ını kullanabilirsiniz.)
 address
 
