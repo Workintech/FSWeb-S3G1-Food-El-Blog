@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            border: 1px solid red;
+            padding: 20px 1.25%;
+        }
+
+        @media(max-width: 600px) {
+            .container {
+                background: gray;
+            }
+
+            .container header nav {
+                display: flex;
+                flex-direction: column;
+            }
+
+            .container header nav a {
+                margin-bottom: 20px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <nav>
+                <a href="#">Home</a>
+                <a href="#">About</a>
+                <a href="#">Blog</a>
+                <a href="#">Contact</a>
+            </nav>
+        </header>
+        <section class="main-content">
+            <h1>Layouts</h1>
+            <p>Testing out different layouts!</p>
+        </section>
+    </div>
+</body>
+
+</html>
