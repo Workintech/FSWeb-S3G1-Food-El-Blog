@@ -19,7 +19,7 @@
   },
   "scripts": {
     "test": "jest --watchAll --verbose --forceExit --silent",
-    "start": "serve src"
+    "start": "serve ./"
   },
   "repository": {
     "type": "git",
