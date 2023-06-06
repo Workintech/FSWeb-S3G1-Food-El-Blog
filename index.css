@@ -41,7 +41,7 @@ line-height: 1.4;
 }
 
 .container {
-  /*======= width property yaratın. Değerini 605px olarak atayın */
+  /*======= width property yaratın. Değerini 750px olarak atayın */
   margin: 0 auto;
 }
 
@@ -88,7 +88,7 @@ footer {
 
 footer .footer-content { 
   margin: 0 auto; 
-  /*======= width property yaratın. Değerini 605px olarak atayın */
+  /*======= width property yaratın. Değerini 750px olarak atayın */
   
 }
 
